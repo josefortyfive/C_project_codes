@@ -1,0 +1,5 @@
+[{
+  "file": "C:\\Users\\Edmar\\Documents\\clangpractice\\Training\\Learning\\C\\Setup\\practice\\Workspace_01\\Project_01\\main.c",
+  "directory": "C:\\Users\\Edmar\\Documents\\clangpractice\\Training\\Learning\\C\\Setup\\practice\\Workspace_01\\Project_01",
+  "command": "C:/cygwin64/bin/gcc.exe -c C:\\Users\\Edmar\\Documents\\clangpractice\\Training\\Learning\\C\\Setup\\practice\\Workspace_01\\Project_01\\main.c -o C:\\Users\\Edmar\\Documents\\clangpractice\\Training\\Learning\\C\\Setup\\practice\\Workspace_01\\Project_01\\main.c.o  -I. -I.  -O0  -gdwarf-2  -std=c99  -Wall"
+ }]
